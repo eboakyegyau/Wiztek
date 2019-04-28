@@ -4,22 +4,22 @@ export const MENU_ITEMS: NbMenuItem[] = [
   {
     title: 'Home',
     icon: 'nb-home',
-    link: '/pages/dashboard',
+    link: '/pages/home',
     home: true,
   },
   {
     title: 'Services',
     icon: 'nb-e-commerce',
-    link: '/pages/dashboard',
+    link: '/pages/services',
   },
   {
     title: 'Free Consultation',
     icon: 'nb-phone',
-    link: '/pages/dashboard',
+    link: '/pages/consultation',
   },
   {
     title: 'About',
     icon: 'nb-location',
-    link: '/pages/dashboard',
+    link: '/pages/about',
   },
 ];
